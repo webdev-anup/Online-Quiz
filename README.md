@@ -9,7 +9,7 @@ A clean, interactive quiz application built with vanilla HTML, CSS, and JavaScri
 
 ## 🔴 Live Demo
 
-[👉 View Live](https://your-username.github.io/quiz-app) <!-- Replace with your actual GitHub Pages link -->
+[👉 View Live](https://github.com/webdev-anup/Online-Quiz.git) <!-- Replace with your actual GitHub Pages link -->
 
 ---
 
@@ -100,8 +100,8 @@ Open `js/questions.js` and add a new object to the `questions` array:
 ## 🙋‍♂️ Author
 
 **Anup Patwa**
-- GitHub: [@anup-patwa](https://github.com/anup-patwa)
-- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- GitHub: [@anup-patwa](https://github.com/webdev-anup)
+- LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/anup-patwa-8b91b8372/)
 
 ---
 
